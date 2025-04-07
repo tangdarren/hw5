@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "buf.C": "cpp",
+        "error.C": "cpp",
+        "iostream": "cpp",
+        "heapfile.C": "cpp",
+        "testfile.C": "cpp",
+        "__locale": "cpp",
+        "db.C": "cpp",
+        "iosfwd": "cpp",
+        "ostream": "cpp",
+        "page.C": "cpp",
+        "new": "cpp"
+    }
+}
